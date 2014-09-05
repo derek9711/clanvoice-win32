@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AgoraSdkDemo">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\AgoraVoiceSDK-0.5.2-win32-8.29\sample\AgoraAudioSdkDemo\AgoraSdkDemo.sln">
+</Property><Property Name="Date" Value="2014年8月29日">
+</Property><Property Name="Time" Value="14:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AgoraSdkDemo.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\AgoraVoiceSDK-0.5.2-win32-8.29\sample\AgoraAudioSdkDemo\AgoraSdkDemo.sln.old">
+</Event><Event ErrorLevel="0" Project="AgoraSdkDemo" Source="AgoraSdkDemo.vcproj" Description="Converting project file 'C:\Users\Administrator\Desktop\AgoraVoiceSDK-0.5.2-win32-8.29\sample\AgoraAudioSdkDemo\AgoraSdkDemo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="AgoraSdkDemo" Source="AgoraSdkDemo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="AgoraSdkDemo" Source="AgoraSdkDemo.vcproj" Description="Done converting to new project file 'C:\Users\Administrator\Desktop\AgoraVoiceSDK-0.5.2-win32-8.29\sample\AgoraAudioSdkDemo\AgoraSdkDemo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AgoraSdkDemo" Source="AgoraSdkDemo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AgoraSdkDemo.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="AgoraSdkDemo.sln" Description="Converted">
+</Event></UpgradeLog>
